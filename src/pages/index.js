@@ -93,7 +93,7 @@ const IndexPage = () => {
       <h1 style={headingStyles}>
         <br />
         <span style={headingAccentStyles}>
-          Your local development team in <code style={codeStyles}>Palo Alto, CA</code>
+          Your local development team in <code style={codeStyles}>California, CA</code>
         </span>
       </h1>
       <p style={paragraphStyles}>
@@ -124,4 +124,4 @@ const IndexPage = () => {
 
 export default IndexPage;
 
-export const Head = () => <title>Kwole - Local Dev Team in Palo Alto</title>;
+export const Head = () => <title>Kwole - Local Dev Team in California</title>;
